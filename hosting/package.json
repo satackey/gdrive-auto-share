@@ -5,7 +5,7 @@
   "dependencies": {
     "@react-firebase/auth": "^0.2.10",
     "@testing-library/jest-dom": "^5.11.9",
-    "@testing-library/react": "^11.2.5",
+    "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^12.8.1",
     "axios": "^0.21.1",
     "bulma-extensions": "^6.2.7",
